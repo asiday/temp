@@ -1,5 +1,5 @@
 ## Kubernetes cluster locally
- You can run a Kubernetes cluster in your local development environments within a Docker container on your local system.
+ You can run a Kubernetes cluster in your local development environments using build-in Kubernetes instance of Docker Desktop.
  This solution is only for local testing. You can test your application during all development phases.
 
 ### Enable Kubernetes in Docker Desktop
